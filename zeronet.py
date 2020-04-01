@@ -9,7 +9,7 @@ def main():
         sys.exit(0)
 
     if "--silent" not in sys.argv:
-        print("- Starting ZeroNet...")
+        print("- Starting HerokuZn...")
 
     main = None
     try:
